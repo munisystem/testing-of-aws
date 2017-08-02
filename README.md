@@ -1,4 +1,4 @@
-# aws-testing
+# testing-of-aws
 
 ## Author
 

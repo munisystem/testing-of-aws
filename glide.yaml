@@ -1,2 +1,2 @@
-package: github.com/munisystem/aws-testing
 import: []
+package: github.com/munisystem/testing-of-aws

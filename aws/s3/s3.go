@@ -6,7 +6,7 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
-	awspkg "github.com/munisystem/aws-testing/aws"
+	awspkg "github.com/munisystem/testing-of-aws/aws"
 )
 
 type S3 struct {
