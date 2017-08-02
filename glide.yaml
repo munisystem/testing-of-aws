@@ -1,2 +1,6 @@
-import: []
 package: github.com/munisystem/testing-of-aws
+import:
+- package: github.com/aws/aws-sdk-go
+testImport:
+- package: gopkg.in/ory-am/dockertest.v3
+  version: 3.0.9
